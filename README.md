@@ -18,6 +18,7 @@ I'm a developer with more than ten years experience on sofware and systems. Buil
 
 ## My Posts 📑
 - [Flutter/Dart — Neden const kullanmalıyız](https://medium.com/@caglar.ylmz/flutter-dart-neden-const-kullanmal%C4%B1y%C4%B1z-c73d91c6256d)![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)
+- [Chrome Extension with Flutter](https://medium.com/@caglar.ylmz/chrome-extension-with-flutter-c090c981b0f8)![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)
 
 ## 📫 How to reach me:
 📝(https://caglar-ylmz.web.app/#/)
