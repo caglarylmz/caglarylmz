@@ -16,8 +16,8 @@ I'm a developer with more than ten years experience on sofware and systems. Buil
 - [Awesome Number Picker](https://pub.dev/packages/awesome_number_picker) ![](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 - [Slide Digital Clock](https://pub.dev/packages/slide_digital_clock) ![](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-## My Medium Posts 📑
-- [Flutter/Dart — Neden const kullanmalıyız](https://medium.com/@caglar.ylmz/flutter-dart-neden-const-kullanmal%C4%B1y%C4%B1z-c73d91c6256d)
+## My Posts 📑
+- [Flutter/Dart — Neden const kullanmalıyız](https://medium.com/@caglar.ylmz/flutter-dart-neden-const-kullanmal%C4%B1y%C4%B1z-c73d91c6256d)![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)
 
 ## 📫 How to reach me:
 📝(https://caglar-ylmz.web.app/#/)
